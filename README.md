@@ -24,7 +24,6 @@ This project is a modern web application that provides personalized movie recomm
 
 To run this project locally, follow these steps:
 
-1. **Clone the repository:**
    ```bash
    git clone https://github.com/elifcyhn/movie-recommender.git
    cd movie-recommender
